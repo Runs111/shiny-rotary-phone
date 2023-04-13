@@ -1,2 +1,2 @@
-# shiny-rotary-phone
-Shiba Hub V2 Repository.
+#Shiba Hub V2
+This is the best script hub for roblox.
