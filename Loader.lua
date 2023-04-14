@@ -1,5 +1,5 @@
 local games = {
-    [{6839171747}] = "k",
+    [{6839171747}] = "https://raw.githubusercontent.com/Runs111/shiny-rotary-phone/main/Doors/Loader.lua",
 }
 
 for ids, url in next, games do
